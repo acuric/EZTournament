@@ -1,0 +1,2 @@
+# EZTournament
+Create a tournament.
